@@ -5,5 +5,6 @@
 <div>Kelas RB
 <div>Jadwal A
 
-<div>Output
+*Output
+
 ![output](https://github.com/windharko/foto/blob/main/image.png)
